@@ -1,0 +1,12 @@
+﻿streamlit
+langchain
+langchain-core
+langchain-openai
+openai
+httpx
+python-dotenv
+mcp<2
+google-auth
+requests
+tzdata
+langsmith
